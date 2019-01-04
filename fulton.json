@@ -3,10 +3,6 @@
 		"title": "Meet West End On Fulton",
 		"subtitle": "Delivering Q1 2020"
 	},
-	"features": {
-		"title": "Features highlight",
-		"description": "The way we work is changing. West End on Fulton is a workplace that creates opportunities for well-being everywhere you look. Effortlessly convenient and curated to meet (and exceed) the modern worker’s needs, West End on Fulton offers truly unique features:"
-	},
 	"intro": {
 		"title": "Delivering Q1 2020",
 		"content": "Anchored in wellness and hospitality and curated for the modern workforce, West End on Fulton is poised to bring a new way of working to Fulton Market. This 14-story Class A office tower brings a breath of fresh air to Chicago’s most innovative corridor. Designed with the human experience in mind, West End on Fulton celebrates the existing neighborhood while turning an eye toward the future.",
@@ -18,13 +14,15 @@
 	},
 	"gallery": {
 		"title": "West Fulton Gallery",
-		"tab_a-label": "The Building",
-		"tab_b-label": "Amenities",
+		"tab1-label": "The Building",
+		"tab2-label": "Amenities",
 		"tab1-img1-url": {
 			"tab1-img1-title": "Sweeping Rooftop Views",
 			"tab1-img1-desc": "With hospitality-inspired features."
-		},
-		"tab1-label": "The Building",
-		"tab2-label": "Amenities"
-	}
+		}
+	},
+	"features": {
+		"title": "Features highlight",
+		"description": "The way we work is changing. West End on Fulton is a workplace that creates opportunities for well-being everywhere you look. Effortlessly convenient and curated to meet (and exceed) the modern worker’s needs, West End on Fulton offers truly unique features:"
+	},
 }
