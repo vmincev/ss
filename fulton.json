@@ -15,5 +15,14 @@
 			"PRIVATE BALCONIES ON EACH FLOOR",
 			"13,000 SF OF RETAIL"
 		]
+	},
+	"gallery": {
+		"title": "West Fulton Gallery",
+		"tab_a-label": "The Building",
+		"tab_b-label": "Amenities",
+		"tab1-img1-url": {
+			"tab1-img1-title": "Sweeping Rooftop Views",
+			"tab1-img1-desc": "With hospitality-inspired features."
+		}
 	}
 }
